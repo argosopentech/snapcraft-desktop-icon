@@ -1,3 +1,2 @@
-Demo of creating a Python/Tkinter app in a Snapcraft package.
+Demo of adding a .desktop file to a snapcraft application
 
-[Snapcraft forum discussion](https://forum.snapcraft.io/t/tkinter-doesnt-work-with-the-python-plugin/16567)

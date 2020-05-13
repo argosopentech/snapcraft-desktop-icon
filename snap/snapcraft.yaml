@@ -13,6 +13,7 @@ apps:
   snapcraft-tkinter: 
     adapter: full
     command: bin/snapcraft-tkinter
+    desktop: meta/gui/snapcraft-tkinter.desktop
     plugs:
       - desktop
       - desktop-legacy
