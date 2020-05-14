@@ -1,2 +1,2 @@
-Exec=argos-translate
-Icon=${SNAP}/meta/gui/argos-translate.png
+Exec=snapcraft-tkinter
+Icon=${SNAP}/meta/gui/snapcraft-tkitner.png
